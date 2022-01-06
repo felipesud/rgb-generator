@@ -42,3 +42,13 @@ input[type="range"]::-webkit-slider-thumb{
     border-radius: 50%;
     cursor: pointer;
 }
+
+.main #red{
+    background: linear-gradient(90deg, #000, red);
+}
+.main #green{
+    background: linear-gradient(90deg, #000, green);
+}
+.main #blue{
+    background: linear-gradient(90deg, #000, blue);
+}
